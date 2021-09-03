@@ -35,4 +35,4 @@ jobs:
       with:
       # Artifact name
         name: default
-        path: bin
+        path: GitHubTest\bin
